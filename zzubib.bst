@@ -1,9 +1,7 @@
 %%================================================
 %% Filename: zzubib.bst
 %% Encoding: UTF-8
-%% Author: Yuan Xiaoshuai - yxshuai@gmail.com
-%% Created: 2012-06-06 01:18
-%% Last modified: 2016-08-28 20:58
+%% Created: 2017-05-20 
 %%================================================
 % BibTeX standard bibliography style `zzubib.bst' derived from
 % `GBT7714-2005NLang-UTF8.bst'.
